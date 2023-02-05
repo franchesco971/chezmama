@@ -1,0 +1,4 @@
+.history/
+wordpress/wp-content/uploads/*
+
+*.log
